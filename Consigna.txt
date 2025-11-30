@@ -1,0 +1,35 @@
+Consigna
+
+Objetivo: Analizar el rendimiento y la retención de estudiantes en una plataforma educativa online.
+
+Limpieza de datos:
+
+Eliminar valores nulos o inconsistentes.
+
+Normalizar columnas (por ejemplo, convertir “Yes/No” a 1/0).
+
+Corregir tipos de datos (fechas, números, categorías).
+
+Análisis exploratorio con Python:
+
+Calcular la tasa de abandono general y por curso.
+
+Promedio de horas de estudio y correlación con la nota final.
+
+Identificar los factores más relacionados con el rendimiento (edad, nivel educativo, uso de foros, etc.).
+
+Visualización:
+
+seaborn.boxplot() para ver distribución de notas por grupo etario.
+
+matplotlib.pie() o sns.countplot() para mostrar proporción de abandono.
+
+sns.heatmap() para mostrar correlaciones.
+
+Power BI:
+
+Crear dashboard con métricas clave: “Retención”, “Promedio de notas”, “Cursos con mayor abandono”.
+
+Conclusiones:
+
+Resumir en 3 a 5 puntos qué factores influyen más en el éxito académico.
